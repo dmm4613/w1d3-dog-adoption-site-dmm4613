@@ -48,15 +48,16 @@
 }
 
 .dog {
-    
+  height: auto;
+  width: 400px;
+  margin: 1rem; 
 }
 .puppic {
     height: auto;
     width: 400px;
-    margin: 2rem;
 }
 .attributes {
-    display:flex;
+    display: flex;
     flex-wrap: wrap;
 }
 .dog_tags {
